@@ -1,3 +1,9 @@
+## [0.1.2] – Modest Work
+
+### 📚 README Improvements
+- Added stylized JSR badges
+- Included Creative Commons Licenses in supported license list
+
 ## [0.1.1] – Glancing Blow
 
 - 📚 README clarified: Updated usage example to match the new Creative Commons license prompt flow.
