@@ -23,7 +23,6 @@ deno run --allow-write jsr:@deno-forge/license
 📅 Year of copyright: 2025
 👤 Enter license holder name: Somebody Somewhere
 ✅ License written to LICENSE
-
 ```
 
 ---

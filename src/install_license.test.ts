@@ -1,6 +1,6 @@
 import { assertEquals, assertRejects } from '@std/assert'
 import { installLicense, promptForToken } from './install_license.ts'
-import { PromptCancelledError } from '@anvil'
+import { PromptCancelledError } from '@anvil/console_prompt'
 
 // Mock license registry
 class MockRegistry {

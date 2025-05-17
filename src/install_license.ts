@@ -1,4 +1,4 @@
-import { consolePrompt as defaultConsolePrompt, PromptCancelledError } from '@anvil'
+import { consolePrompt as defaultConsolePrompt, PromptCancelledError } from '@anvil/console_prompt'
 import { LicenseRegistry } from './LicenseRegistry.ts'
 
 /**

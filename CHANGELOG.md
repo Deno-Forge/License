@@ -1,3 +1,13 @@
+## [0.1.4] – Refined Imports
+
+This patch corrects an unintended dependency chain by refining how `consolePrompt` is imported from `@anvil`.
+
+### 🛠 Dependency Fix
+
+- Updated import to target `@anvil/console_prompt` directly via JSR
+- Removes accidental inclusion of `@std/jsonc` from `anvil`'s `mod.ts` export tree
+- Results in a smaller, cleaner dependency graph
+
 ## [0.1.3] – Modest Work
 
 ### 📚 README Improvements
