@@ -1,7 +1,7 @@
 {
   "name": "@deno-forge/license",
   "description": "OSI-compliant license scaffolding",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "exports": "./mod.ts",
   "compilerOptions": {
     "lib": ["dom", "deno.ns"]

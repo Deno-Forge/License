@@ -1,3 +1,9 @@
+## [0.1.1] – Glancing Blow
+
+- 📚 README clarified: Updated usage example to match the new Creative Commons license prompt flow.
+- 🛡️ License corrected: Now rightly shielded under the [BSD-3-Clause], befitting a forge of open standards.  (Yes, the irony is noted. The smiths are humbled.)
+- ⚙️ JSR publishing workflow: Automated deployment now flows through GitHub Actions on main branch merges.
+
 ## [0.1.0] – First Strike
 
 The licensing forge is lit. Initial release of `@deno-forge/license`, a tool to scaffold OSI-compliant licenses with clarity and craft.

@@ -13,7 +13,10 @@ Scaffolds OSI-compliant licenses—quickly, clearly, and correctly.
 
 ```bash
 deno run --allow-write jsr:@jaredhall/deno-license
-📜 License (bsd, mit, gpl, agpl, hippocratic): BSD # input is case-insensitive
+📜 License type: # input is case-insensitive
+  ▸ Code: mit, bsd, gpl, agpl
+  ▸ Creative Commons: cc0, cc-by, cc-by-sa, cc-by-nc
+ bsd
 📅 Year of copyright: 2025
 👤 Enter license holder name: Somebody Somewhere
 ✅ License written to LICENSE
