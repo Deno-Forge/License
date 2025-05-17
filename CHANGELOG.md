@@ -1,3 +1,9 @@
+## [0.1.3] – Modest Work
+
+### 📚 README Improvements
+- Fixed import with wrong path in example
+- Added Deno-Forge branding
+
 ## [0.1.2] – Modest Work
 
 ### 📚 README Improvements
