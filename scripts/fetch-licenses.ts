@@ -18,20 +18,20 @@ const licenses = [
 		url: 'https://raw.githubusercontent.com/spdx/license-list-data/main/text/AGPL-3.0-only.txt',
 	},
 	{
-		name: "CC0-1.0",
-		url: "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC0-1.0.txt",
+		name: 'CC0-1.0',
+		url: 'https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC0-1.0.txt',
 	},
 	{
-		name: "CC-BY-4.0",
-		url: "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-4.0.txt",
+		name: 'CC-BY-4.0',
+		url: 'https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-4.0.txt',
 	},
 	{
-		name: "CC-BY-SA-4.0",
-		url: "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-4.0.txt",
+		name: 'CC-BY-SA-4.0',
+		url: 'https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-4.0.txt',
 	},
 	{
-		name: "CC-BY-NC-4.0",
-		url: "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-4.0.txt",
+		name: 'CC-BY-NC-4.0',
+		url: 'https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-4.0.txt',
 	},
 ]
 
